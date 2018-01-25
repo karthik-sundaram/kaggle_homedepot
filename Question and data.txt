@@ -1,0 +1,2 @@
+Detials of the question and the data description :
+https://www.kaggle.com/c/home-depot-product-search-relevance
